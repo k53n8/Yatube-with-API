@@ -7,7 +7,7 @@
 - Python 3.7
 - Django 3.2.16
 - Django Rest Framework 3.2.14
-- Django Rest Framework SimpleJWT 4.7.2
+- Djoser 2.2.0
 
 # Установка проекта: 
 Клонируйте этот репозиторий с GitHub:
